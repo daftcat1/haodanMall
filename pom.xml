@@ -15,5 +15,8 @@
         <module>haodanmall-coupon</module>
         <module>haodanmall-member</module>
         <module>haodanmall-order</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>haodanmall-common</module>
     </modules>
 </project>
